@@ -1,0 +1,26 @@
+Part Qualification Record – P100
+
+Document ID: DOC-P100-003
+
+Part Number: P100
+
+Part Description: Precision Aluminium Housing
+
+Manufacturing Machine: M100
+
+Material: Aluminium Alloy 6061
+
+Dimensional Requirements:
+- Length: 100 mm ± 0.10 mm.
+- Width: 50 mm ± 0.05 mm.
+- Height: 25 mm ± 0.05 mm.
+Quality Requirements:
+1. All dimensions must remain within specified tolerances.
+2. No visible cracks or surface defects are permitted.
+3. Surface finish must be Ra 1.6 µm or better.
+4. All critical dimensions must be verified during first-piece inspection.
+Qualification Process:
+- First-piece inspection is mandatory.
+- A minimum of 10 consecutive parts must pass dimensional inspection.
+- Quality engineering approval is required before mass production.
+Approval Status: Approved for production, subject to compliance with inspection requirements.

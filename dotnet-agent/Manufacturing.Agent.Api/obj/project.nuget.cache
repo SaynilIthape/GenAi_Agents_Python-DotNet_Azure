@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "uZAgtyoRqjM=",
+  "success": true,
+  "projectFilePath": "D:\\Study-Sunel\\GenAI_Python_Project\\manufacturing-assistant\\dotnet-agent\\Manufacturing.Agent.Api\\Manufacturing.Agent.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sunil Y Ithape\\.nuget\\packages\\google.protobuf\\3.30.2\\google.protobuf.3.30.2.nupkg.sha512",
+    "C:\\Users\\Sunil Y Ithape\\.nuget\\packages\\microsoft.agents.ai\\1.28.0\\microsoft.agents.ai.1.28.0.nupkg.sha512",
+    "C:\\Users\\Sunil Y Ithape\\.nuget\\packages\\microsoft.agents.ai.abstractions\\1.28.0\\microsoft.agents.ai.abstractions.1.28.0.nupkg.sha512",
+    "C:\\Users\\Sunil Y Ithape\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\Sunil Y Ithape\\.nuget\\packages\\microsoft.extensions.ai\\10.11.0\\microsoft.extensions.ai.10.11.0.nupkg.sha512",
+    "C:\\Users\\Sunil Y Ithape\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.11.0\\microsoft.extensions.ai.abstractions.10.11.0.nupkg.sha512",
+    "C:\\Users\\Sunil Y Ithape\\.nuget\\packages\\microsoft.extensions.ai.evaluation\\10.11.0\\microsoft.extensions.ai.evaluation.10.11.0.nupkg.sha512",
+    "C:\\Users\\Sunil Y Ithape\\.nuget\\packages\\microsoft.extensions.compliance.abstractions\\10.10.0\\microsoft.extensions.compliance.abstractions.10.10.0.nupkg.sha512",
+    "C:\\Users\\Sunil Y Ithape\\.nuget\\packages\\microsoft.extensions.vectordata.abstractions\\10.10.0\\microsoft.extensions.vectordata.abstractions.10.10.0.nupkg.sha512",
+    "C:\\Users\\Sunil Y Ithape\\.nuget\\packages\\microsoft.ml.tokenizers\\2.0.0\\microsoft.ml.tokenizers.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sunil Y Ithape\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sunil Y Ithape\\.nuget\\packages\\ollamasharp\\5.5.2\\ollamasharp.5.5.2.nupkg.sha512",
+    "C:\\Users\\Sunil Y Ithape\\.nuget\\packages\\system.numerics.tensors\\10.0.13\\system.numerics.tensors.10.0.13.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "D:\\Study-Sunel\\GenAI_Python_Project\\manufacturing-assistant\\dotnet-agent\\Manufacturing.Agent.Api\\Manufacturing.Agent.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Study-Sunel\\GenAI_Python_Project\\manufacturing-assistant\\dotnet-agent\\Manufacturing.Agent.Api\\Manufacturing.Agent.Api.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

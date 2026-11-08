@@ -1,0 +1,256 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Manufacturing.Agent.Api/1.0.0": {
+        "dependencies": {
+          "Microsoft.Agents.AI": "1.28.0",
+          "Microsoft.AspNetCore.OpenApi": "10.0.9",
+          "Microsoft.Extensions.AI": "10.11.0",
+          "OllamaSharp": "5.5.2"
+        },
+        "runtime": {
+          "Manufacturing.Agent.Api.dll": {}
+        }
+      },
+      "Google.Protobuf/3.30.2": {
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.30.2.0",
+            "fileVersion": "3.30.2.0"
+          }
+        }
+      },
+      "Microsoft.Agents.AI/1.28.0": {
+        "dependencies": {
+          "Microsoft.Agents.AI.Abstractions": "1.28.0",
+          "Microsoft.Extensions.AI": "10.11.0",
+          "Microsoft.Extensions.AI.Abstractions": "10.11.0",
+          "Microsoft.Extensions.AI.Evaluation": "10.11.0",
+          "Microsoft.Extensions.Compliance.Abstractions": "10.10.0",
+          "Microsoft.Extensions.VectorData.Abstractions": "10.10.0",
+          "Microsoft.ML.Tokenizers": "2.0.0"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Agents.AI.dll": {
+            "assemblyVersion": "1.28.0.0",
+            "fileVersion": "1.28.0.0"
+          }
+        }
+      },
+      "Microsoft.Agents.AI.Abstractions/1.28.0": {
+        "dependencies": {
+          "Microsoft.Extensions.AI.Abstractions": "10.11.0"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Agents.AI.Abstractions.dll": {
+            "assemblyVersion": "1.28.0.0",
+            "fileVersion": "1.28.0.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.OpenApi/10.0.9": {
+        "dependencies": {
+          "Microsoft.OpenApi": "2.0.0"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "assemblyVersion": "10.0.9.0",
+            "fileVersion": "10.0.926.27113"
+          }
+        }
+      },
+      "Microsoft.Extensions.AI/10.11.0": {
+        "dependencies": {
+          "Microsoft.Extensions.AI.Abstractions": "10.11.0",
+          "System.Numerics.Tensors": "10.0.13"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.AI.dll": {
+            "assemblyVersion": "10.11.0.0",
+            "fileVersion": "10.1100.26.51307"
+          }
+        }
+      },
+      "Microsoft.Extensions.AI.Abstractions/10.11.0": {
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.AI.Abstractions.dll": {
+            "assemblyVersion": "10.11.0.0",
+            "fileVersion": "10.1100.26.51307"
+          }
+        }
+      },
+      "Microsoft.Extensions.AI.Evaluation/10.11.0": {
+        "dependencies": {
+          "Microsoft.Extensions.AI.Abstractions": "10.11.0"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.AI.Evaluation.dll": {
+            "assemblyVersion": "10.11.0.0",
+            "fileVersion": "10.1100.26.51307"
+          }
+        }
+      },
+      "Microsoft.Extensions.Compliance.Abstractions/10.10.0": {
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Compliance.Abstractions.dll": {
+            "assemblyVersion": "10.10.0.0",
+            "fileVersion": "10.1000.26.45902"
+          }
+        }
+      },
+      "Microsoft.Extensions.VectorData.Abstractions/10.10.0": {
+        "dependencies": {
+          "Microsoft.Extensions.AI.Abstractions": "10.11.0"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.VectorData.Abstractions.dll": {
+            "assemblyVersion": "10.10.0.0",
+            "fileVersion": "10.1000.26.45902"
+          }
+        }
+      },
+      "Microsoft.ML.Tokenizers/2.0.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.30.2"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.ML.Tokenizers.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "2.0.25.55704"
+          }
+        }
+      },
+      "Microsoft.OpenApi/2.0.0": {
+        "runtime": {
+          "lib/net8.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "OllamaSharp/5.5.2": {
+        "dependencies": {
+          "Microsoft.Extensions.AI": "10.11.0",
+          "Microsoft.Extensions.AI.Abstractions": "10.11.0"
+        },
+        "runtime": {
+          "lib/net10.0/OllamaSharp.dll": {
+            "assemblyVersion": "5.5.2.0",
+            "fileVersion": "5.5.2.0"
+          }
+        }
+      },
+      "System.Numerics.Tensors/10.0.13": {
+        "runtime": {
+          "lib/net10.0/System.Numerics.Tensors.dll": {
+            "assemblyVersion": "10.0.0.13",
+            "fileVersion": "10.0.1326.50504"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manufacturing.Agent.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.30.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y2aOVLIt75yeeEWigg9V9YnjsEm53sADtLGq0gLhwaXpk3iu8tYSoauolyhenagA2sWno2TQ2WujI0HQd6s1Vw==",
+      "path": "google.protobuf/3.30.2",
+      "hashPath": "google.protobuf.3.30.2.nupkg.sha512"
+    },
+    "Microsoft.Agents.AI/1.28.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PyT62X25Exr12ELJakcQZSIJdaBTouyPzXbDwcCWHpK/sjMxV4sJDnBqjz6xYxfYifO16cAXC93FHVKb+mk1gg==",
+      "path": "microsoft.agents.ai/1.28.0",
+      "hashPath": "microsoft.agents.ai.1.28.0.nupkg.sha512"
+    },
+    "Microsoft.Agents.AI.Abstractions/1.28.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f0pcDqs9JUHffTMjdsktAF+pa7On+q3w8MoyuWzl8mYTT+U+tMuP5N2qvQtyfC3N2SvVWkdkdZNqnRdonySkjg==",
+      "path": "microsoft.agents.ai.abstractions/1.28.0",
+      "hashPath": "microsoft.agents.ai.abstractions.1.28.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.OpenApi/10.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1ihb8FO9cGgEK1/m3CTtT/SfnynwmiZib0W2pcDVj3KSWk/Sca4VOXEtaptKQc582zpFrzTFiwkGRCglt6H+WQ==",
+      "path": "microsoft.aspnetcore.openapi/10.0.9",
+      "hashPath": "microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512"
+    },
+    "Microsoft.Extensions.AI/10.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PtgeWqaC3gQ8/saMgkUiwKeqCBPfDOcjfqDLcXtwJI//pu79gYZqUMPOh7/bFdFWcJihP/rWq9sgQd2xQtEP0A==",
+      "path": "microsoft.extensions.ai/10.11.0",
+      "hashPath": "microsoft.extensions.ai.10.11.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.AI.Abstractions/10.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h4DX/TdJU4fk1GGaf19n6Kujkj6VXbGeL4UEOsQ8+ZJC5fVApPauokCtvBP684BYbczUYZQNfo1mbmyHG4WVSg==",
+      "path": "microsoft.extensions.ai.abstractions/10.11.0",
+      "hashPath": "microsoft.extensions.ai.abstractions.10.11.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.AI.Evaluation/10.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bCGBQzk+8HtfwKx8prJUloncDonqNWBIijhoieArgSg0WzJAgGNoDhG1f698mvEdNd7DFoZEoSjZz7PKxB8Evg==",
+      "path": "microsoft.extensions.ai.evaluation/10.11.0",
+      "hashPath": "microsoft.extensions.ai.evaluation.10.11.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Compliance.Abstractions/10.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Sh3ujDRJpCMNY4x+43ljCROt4qBOoWfsL8l816RPYZS1S+Tw277r5002rbB15Sh6hFcCT8mGYBO7NtpfSYrQ0Q==",
+      "path": "microsoft.extensions.compliance.abstractions/10.10.0",
+      "hashPath": "microsoft.extensions.compliance.abstractions.10.10.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.VectorData.Abstractions/10.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bZdR7QbdLLqmc9xPJIiD5U6H678xyv8eMATjQ0SmH7OZyi+/12G/nFAGCE6DNG22q76YNwkXo+V7GMyUckjjgw==",
+      "path": "microsoft.extensions.vectordata.abstractions/10.10.0",
+      "hashPath": "microsoft.extensions.vectordata.abstractions.10.10.0.nupkg.sha512"
+    },
+    "Microsoft.ML.Tokenizers/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+b8lT4cLLO/sBR2hjvE/qG6qrZG15h7/PBvnIrzTh4xDaAxdHUY6449rC+1pHzQUsBiCHZVbj+VMn+xS0sL7TA==",
+      "path": "microsoft.ml.tokenizers/2.0.0",
+      "hashPath": "microsoft.ml.tokenizers.2.0.0.nupkg.sha512"
+    },
+    "Microsoft.OpenApi/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GGYLfzV/G/ct80OZ45JxnWP7NvMX1BCugn/lX7TH5o0lcVaviavsLMTxmFV2AybXWjbi3h6FF1vgZiTK6PXndw==",
+      "path": "microsoft.openapi/2.0.0",
+      "hashPath": "microsoft.openapi.2.0.0.nupkg.sha512"
+    },
+    "OllamaSharp/5.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oI/dJ5xk9X2eAUSv0kvN26LtN900muLdmyFAIQLUkzOJZi4blIfQzPdkHWH8i5/Tf9SQVoc2pxTz3Tjfrp7qlQ==",
+      "path": "ollamasharp/5.5.2",
+      "hashPath": "ollamasharp.5.5.2.nupkg.sha512"
+    },
+    "System.Numerics.Tensors/10.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E4JC7KcY4j1yx9uy8tVsHlGThnwLdUWtUz6aLHCqbN/jbtwbwbZgnVEF9atUr/7ynFCbo8Rbij056Y9bWM9ALg==",
+      "path": "system.numerics.tensors/10.0.13",
+      "hashPath": "system.numerics.tensors.10.0.13.nupkg.sha512"
+    }
+  }
+}

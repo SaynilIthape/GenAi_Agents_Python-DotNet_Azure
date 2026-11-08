@@ -1,0 +1,36 @@
+Quality Inspection Report – M100
+
+Document ID: DOC-M100-002
+
+Machine ID: M100
+
+Report Date: 25 October 2026
+
+Part Number: P100
+
+Production Batch: BATCH-2026-105
+
+Inspection Findings:
+
+During inspection of batch BATCH-2026-105, 18 out of 200 manufactured parts were found defective.
+
+Observed Defects:
+- Dimensional deviation beyond permitted tolerance.
+- Surface finishing irregularities.
+- Increased tool vibration during machining.
+Investigation Findings:
+
+The machine temperature was recorded at 82°C during production. The normal operating temperature should remain between 40°C and 65°C.
+
+The coolant flow rate was also found to be below the recommended operating level.
+
+Probable Root Cause:
+
+Insufficient coolant circulation and elevated operating temperature may have contributed to dimensional deviations and inconsistent machining quality.
+
+Corrective Actions:
+1. Inspect and clean coolant pipes.
+2. Verify cooling pump performance.
+3. Inspect cutting tools for wear.
+4. Perform dimensional inspection after corrective maintenance.
+5. Resume production only after quality approval.

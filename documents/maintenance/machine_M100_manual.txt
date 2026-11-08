@@ -1,0 +1,29 @@
+Document ID: DOC-M100-001
+
+Machine ID: M100
+
+Machine Type: CNC Milling Machine
+
+Manufacturer: ABC Industrial Systems
+
+Operating Temperature:
+
+The normal operating temperature of machine M100 should remain between 40°C and 65°C. Temperatures above 75°C are considered abnormal and require immediate inspection.
+
+Cooling System:
+
+Machine M100 uses a liquid cooling system. Coolant level and coolant flow must be inspected before every production shift.
+
+Overheating Troubleshooting:
+1. Check the coolant reservoir level.
+2. Inspect coolant pipes for blockages.
+3. Verify that the cooling pump is functioning.
+4. Inspect the cooling fan for damage.
+5. Check the temperature sensor for incorrect readings.
+Preventive Maintenance:
+- Cooling system inspection: Every 7 days.
+- Lubrication inspection: Every 15 days.
+- Complete machine inspection: Every 30 days.
+Maintenance Warning:
+
+If machine temperature exceeds 75°C, stop production and notify the maintenance team.
